@@ -1,2 +1,2 @@
 # Add your variables here
-first number = 
+first number = rand(100);
