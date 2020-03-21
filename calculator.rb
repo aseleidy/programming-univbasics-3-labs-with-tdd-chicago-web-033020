@@ -1,2 +1,2 @@
 # Add your variables here
-first number = rand(100);
+var first number = rand(100);
