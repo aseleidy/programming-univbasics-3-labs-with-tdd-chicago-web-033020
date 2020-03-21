@@ -1,6 +1,6 @@
 # Add your variables here
-first_number = rand(100)
-second_number = rand(0...100)
+first_number 
+second_number
 
 sum = first_number + second_number;
 
