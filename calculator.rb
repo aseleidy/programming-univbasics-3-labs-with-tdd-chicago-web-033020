@@ -1,2 +1,3 @@
 # Add your variables here
-var first number = rand(100);
+first_number = rand(100);
+second_number = rand(100);
